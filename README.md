@@ -1,5 +1,5 @@
 - 👋 ola meu nome e rafael
 - 👀 quero virar um programador profissional
-- 🌱 no momento estou estudando python
-- 💞️ se precisar de ajuda em projetods python , estou disposto a trabalhar para aprender
+- 🌱 no momento estou estudando python/SQL
+- 💞️ se precisar de ajuda em projetos python, SQL , estou disposto a trabalhar para aprender
 - 📫 você pode me encontrar no [linkdin](https://www.linkedin.com/in/rafael-vieira-36a3131a2)
